@@ -1,0 +1,47 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+	font-size:16px;
+	font-family:sans-serif;
+	font-weight:400;
+}
+a{
+	text-decoration:none;
+}
+img{
+	vertical-align:middle;
+}
+ul,ol{
+	list-style:none;
+}
+/*common css end*/
+.one{
+	width:400px;
+	height:400px;
+	background:red;
+	color:white;
+	float:left;
+	padding:20px;
+}
+.two{
+	width:400px;
+	height:400px;
+	background:#9160e1;
+	float:left;
+	padding:20px 30px 10px;
+}
+.three{
+	width:400px;
+	height:400px;
+	background:#60d5e1;
+	float:left;
+	padding:10px 20px 30px 40px;
+}
+.four{
+	width:300px;
+	height:300px;
+	background:#958e43;
+	float:left;
+	padding:10px 30px;
+}
